@@ -34,4 +34,4 @@ Secara umum, langkah-langkah yang diperlukan dalam algoritma FP-Growth adalah se
 
 ## Penerapan Algoritma Apriori dalam Bahasa Pemrograman Python
 
-Untuk penjelasan terkait penerapan algoritma Apriori, dapat mengunjungi berkas **Tugas1_Machine_Learning_H071191002.ipynb** pada branch ini
+Untuk penjelasan terkait penerapan algoritma Apriori, dapat mengunjungi berkas [**Tugas1_Machine_Learning_H071191002.ipynb**](https://github.com/yukiao/Pembelajaran-Mesin/blob/association_rules/Tugas1_Machine_Learning_H071191002.ipynb) pada branch ini
