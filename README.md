@@ -1,4 +1,4 @@
-# Pembelajaran-Machine-Learning
+# Pembelajaran-Mesin
   
 Untuk melihat konten Machine Learning yang tersedia, dapat melihatnya pada branch repositori ini atau melalui link di bawah ini  
 
