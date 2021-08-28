@@ -29,4 +29,9 @@ Secara umum, langkah-langkah yang diperlukan dalam algoritma FP-Growth adalah se
 
 1.  Tentukan nilai minimum support
 2.  Buat sebuah kumpulan 1-itemset yang memenuhi nilai minimum support dan disusun secara menurun
-3.
+3.  Bangun FP Tree berdasarkan transaksi yang tersedia
+4.  Setelah semua transaksi dimasukkan kedama FP Tree, buat dengan melakukan reverse terhadap daftar sebelumnya
+
+## Penerapan Algoritma Apriori dalam Bahasa Pemrograman Python
+
+Untuk penjelasan terkait penerapan algoritma Apriori, dapat mengunjungi berkas **Tugas1_Machine_Learning_H071191002.ipynb** pada branch ini
