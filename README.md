@@ -7,7 +7,7 @@ _Association rules_ adalah teknik _data mining_ yang digunakan untuk mencari hub
 2. **_Confidence_**  
    Confidence mengukur persentase kemunculan item A yang juga mengandung item B dalam transaksi
 3. **_Lift_**  
-   Lift mengukur relasi antara item A dan item B dalam transaksi yakni seberapa kuat item A dan item B muncul secara bersamaan. Nilai lift >= 1 menyatakan bahwa item A dan item B sering muncul secara bersamaan dan nilai lift = 1 menyatakan bahwa tidak ada relasi antara item A dan item B
+   Lift mengukur relasi antara item A dan item B dalam transaksi yakni seberapa kuat item A dan item B muncul secara bersamaan. Nilai lift > 1 menyatakan bahwa item A dan item B memiliki relasi yang kuat dan nilai lift = 1 menyatakan bahwa tidak ada relasi antara item A dan item B
 
 Dalam _Association Rules_ terdapat beberapa algoritma yang sering digunakan seperti algoritma Apriori dan algoritma _Frequent Pattern Growth_
 
@@ -34,4 +34,4 @@ Secara umum, langkah-langkah yang diperlukan dalam algoritma FP-Growth adalah se
 
 ## Penerapan Algoritma Apriori dalam Bahasa Pemrograman Python
 
-Untuk penjelasan terkait penerapan algoritma Apriori, dapat mengunjungi berkas **Tugas1_Machine_Learning_H071191002.ipynb** pada branch ini
+Untuk penjelasan terkait penerapan algoritma Apriori, dapat mengunjungi berkas [**Tugas1_Machine_Learning_H071191002.ipynb**](https://github.com/yukiao/Pembelajaran-Mesin/blob/association_rules/Tugas1_Machine_Learning_H071191002.ipynb) pada branch ini
